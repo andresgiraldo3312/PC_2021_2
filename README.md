@@ -5,3 +5,4 @@ Repositorio dumis para el curso de programación científica  periodo 2021 2
 * dos
 * tercero
 
+agregar mas documentación
